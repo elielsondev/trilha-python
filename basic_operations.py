@@ -16,12 +16,12 @@ potentiation = number1 ** number2
 print(potentiation)  # 100000
 
 # Com o / a divisão é float
-divisionFloat = number1 / number2
-print(divisionFloat)  # 2.0
+division_float = number1 / number2
+print(division_float)  # 2.0
 
 # Com // a divisão é inteiro
-divisionInteger = number1 // number2
-print(divisionInteger)  # 2
+division_integer = number1 // number2
+print(division_integer)  # 2
 
 
 # Incremento ou Decremento em Python não aceita essa sintaxe ++ e --
