@@ -1,2 +1,3 @@
-# trilha-python
+# Trilha Python
+
 Os principais conceitos do Python
