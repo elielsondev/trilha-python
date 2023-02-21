@@ -23,6 +23,10 @@ print(division_float)  # 2.0
 division_integer = number1 // number2
 print(division_integer)  # 2
 
+# O modulo retorna o que resta em uma divisão:
+# Ex: 4 % 2 = 0 ou 5 % 2 = 1
+module = number1 % number2
+print(module)  # 0
 
 # Incremento ou Decremento em Python não aceita essa sintaxe ++ e --
 counter = 10
