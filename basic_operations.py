@@ -46,14 +46,14 @@ print(counter)  # 10
 
 # Operadores >, <, and e or:
 
-temperatura = 24
+temperature = 24
 
 # Maneira extensa
-print(temperatura < 25 and temperatura > 18)  # True
+print(temperature < 25 and temperature > 18)  # True
 
 # Maneira "Pythonica"
-print(18 < temperatura < 25)  # True
+print(18 < temperature < 25)  # True
 
-idade = 32
+age = 32
 
-print(idade <= 5 or idade >= 65)  # False
+print(age <= 5 or age >= 65)  # False
