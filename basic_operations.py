@@ -42,3 +42,18 @@ print(counter)  # 11
 # counter = counter - 1
 counter -= 1
 print(counter)  # 10
+
+
+# Operadores >, <, and e or:
+
+temperatura = 24
+
+# Maneira extensa
+print(temperatura < 25 and temperatura > 18)  # True
+
+# Maneira "Pythonica"
+print(18 < temperatura < 25)  # True
+
+idade = 32
+
+print(idade <= 5 or idade >= 65)  # False
